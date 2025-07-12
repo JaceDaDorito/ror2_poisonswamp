@@ -1,0 +1,36 @@
+{
+    "name": "PoisonSwamp",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b09075ad964848b41a33f15fd615629b",
+        "GUID:a44f47cf3ada4435dbc516bad0bc86fe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "BepInEx.dll",
+        "RoR2.dll",
+        "Assembly-CSharp.dll",
+        "RoR2BepInExPack.dll",
+        "KinematicCharacterController.dll",
+        "HGUnityUtils.dll",
+        "HGCSharpUtils.dll",
+        "LegacyResourcesAPI.dll",
+        "Decalicious.dll",
+        "Unity.Addressables.dll",
+        "Mono.Cecil.dll",
+        "MonoMod.RuntimeDetour.dll",
+        "Unity.ResourceManager.dll",
+        "Mono.Cecil.Pdb.dll",
+        "R2API.Stages.dll",
+        "R2API.Director.dll",
+        "ShaderSwapper.dll",
+        "MMHOOK_RoR2.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
